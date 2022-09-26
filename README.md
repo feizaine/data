@@ -1,5 +1,6 @@
 # data
-this folder contains the following data files
+this folder contains the following data files:
+
   CG-Descent.xlsx
   FUNCTION_NAME.xlsx
   new algorithm.xlsx
